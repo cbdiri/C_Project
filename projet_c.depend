@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676729162 source:c:\users\bdiri\onedrive\bureau\mini projet\projet_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

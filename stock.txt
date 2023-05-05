@@ -1,0 +1,3 @@
+* Categorie     type     Qte     id_produit     date_exp     
+c1 t1 001       002        01/02/2023 
+
